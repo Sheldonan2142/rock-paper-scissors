@@ -1,6 +1,7 @@
 # abigail sheldon
 # Rock paper scissors
 # Variables
+# insert random comments
 import random
 
 pscore = 0
